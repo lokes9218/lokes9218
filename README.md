@@ -13,4 +13,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=lokes9218&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# ✍️ Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
