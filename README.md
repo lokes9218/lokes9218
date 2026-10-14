@@ -21,11 +21,6 @@ I think my curiosity has no commit limit
 * [MOVIE-RECOMMENDED-PREDICTION](https://github.com/lokes9218/MOVIE-RECOMMENDED-PREDICTION) - Collaborative and content-based recommendation engine for movies.
 * [smart-classification](https://github.com/lokes9218/smart-classification) - High-accuracy statistical classification pipeline for complex feature datasets.
 
-### AI & Computer Vision
-
-* [Document_summary](https://github.com/lokes9218/Document_summary) - Automated summarization pipeline for large-scale document analysis.
-* [parking-lot-Detection](https://github.com/lokes9218/parking-lot-Detection) - Real-time parking slot detector leveraging OpenCV and machine learning.
-
 ### Backend & DevOps
 
 * [devops-project](https://github.com/lokes9218/devops-project) - Complete Java-based DevOps deployment workflow orchestrating containerized apps.
