@@ -4,7 +4,7 @@
 
 I think my curiosity has no commit limit
 
-<a href="https://github.com/lokes9218/_Portfolio_"> www.lokeswaran.dev </a>
+<a href="https://portfolio-lokeswaran.vercel.app/"> www.lokeswaran.dev </a>
 
 ## Featured
 
