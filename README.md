@@ -2,7 +2,7 @@
 <a href="https://x.com/s_lokes9218" target="_blank"><img src="https://img.shields.io/badge/Twitter-FF0000.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
 <a href="mailto:lokeswaran9218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF0000.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-I think my portfolio is much prettier than a readme
+I think my curiosity has no commit limit
 
 <a href="https://github.com/lokes9218/_Portfolio_"> www.lokeswaran.dev </a>
 
