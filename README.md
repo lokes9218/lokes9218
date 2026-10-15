@@ -4,7 +4,9 @@
 
 I think my curiosity has no commit limit
 
-<a href="https://portfolio-lokeswaran.vercel.app/"> www.lokeswaran.dev </a>
+<!-- <a href="https://portfolio-lokeswaran.vercel.app/"> www.lokeswaran.dev </a> -->
+<a href="https://portfolio-lokeswaran.vercel.app/">www.lokeswaran.dev</a>
+
 
 ## Featured
 
